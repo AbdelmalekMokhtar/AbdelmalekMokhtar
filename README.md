@@ -64,7 +64,7 @@ A full-featured recipe application with video tutorials.
 
 ### 🛒 **Food Ordering App (Admin & User)**  
 A dual-interface mobile app for food ordering (Admin dashboard + User app).  
-- **Tech Stack**: Flutter, Firebase  
+- **Tech Stack**: Jetpack compose, Firebase  
 - **Features**: Real-time order management, cart system, product management for admins, clean responsive UI  
 
 ---
@@ -78,7 +78,7 @@ A dual-interface mobile app for food ordering (Admin dashboard + User app).
 ---
 
 ## 🏆 Achievements & Activities  
-- **Head of Communication Section** – managed 4 committees (circuits, networks, embedded systems, information security), organized events and workshops.  
+- **Head of Communication Section** – managed 4 committees (CybeSecurity, networks, embedded systems, Digital if design), organized events and workshops.  
 - Conducted **programming workshops** (Scratch, Python, Android) for young learners.  
 - Awarded **scholarship** for academic excellence.  
 - Active contributor to **open-source projects** and passionate about tech education.  
