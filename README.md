@@ -24,6 +24,7 @@ Alongside coding, I also enjoy **teaching programming** (Scratch, Python, Androi
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=android&logoColor=white)  
 ![Scratch](https://img.shields.io/badge/Scratch-FF7F00?style=for-the-badge&logo=scratch&logoColor=white)
 
